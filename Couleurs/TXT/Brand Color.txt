@@ -1,0 +1,30 @@
+/* Coolors Exported Palette - https://coolors.co/105666-376a45-79a682-202024 */
+
+- CSV
+
+105666,376a45,79a682,202024
+
+- With #
+
+#105666, #376a45, #79a682, #202024
+
+- Array
+
+["105666","376a45","79a682","202024"]
+
+- Object
+
+{"Dark Teal":"105666","Hunter Green":"376a45","Muted Teal":"79a682","Shadow Grey":"202024"}
+
+- Extended Array
+
+[{"name":"Dark Teal","hex":"105666","rgb":[16,86,102],"cmyk":[84,16,0,60],"hsb":[191,84,40],"hsl":[191,73,23],"lab":[33,-15,-15]},{"name":"Hunter Green","hex":"376a45","rgb":[55,106,69],"cmyk":[48,0,35,58],"hsb":[136,48,42],"hsl":[136,32,32],"lab":[40,-26,16]},{"name":"Muted Teal","hex":"79a682","rgb":[121,166,130],"cmyk":[27,0,22,35],"hsb":[132,27,65],"hsl":[132,20,56],"lab":[64,-23,14]},{"name":"Shadow Grey","hex":"202024","rgb":[32,32,36],"cmyk":[11,11,0,86],"hsb":[240,11,14],"hsl":[240,6,13],"lab":[12,1,-3]}]
+
+- XML
+
+<palette>
+  <color name="Dark Teal" hex="105666" r="16" g="86" b="102" />
+  <color name="Hunter Green" hex="376a45" r="55" g="106" b="69" />
+  <color name="Muted Teal" hex="79a682" r="121" g="166" b="130" />
+  <color name="Shadow Grey" hex="202024" r="32" g="32" b="36" />
+</palette>
